@@ -3,4 +3,4 @@
 https://docs.joinfaces.org/current/reference/
 
 ###  For testing
-http://localhost:8080/hello.xhtml
+http://localhost:8080/welcome.xhtml
