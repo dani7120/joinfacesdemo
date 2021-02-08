@@ -2,13 +2,11 @@ package com.example.demo.view;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.stereotype.Component;
 
-import javax.faces.view.ViewScoped;
+import java.io.Serializable;
 
-@Component
-@ViewScoped
-public class HelloBean {
+@ViewController
+public class HelloBean implements Serializable {
 
     @Getter
     @Setter

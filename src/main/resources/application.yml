@@ -2,4 +2,4 @@ joinfaces:
   jsf:
     PROJECT_STAGE: Development
   primefaces:
-    font-awesome: true
+    theme: blitzer
