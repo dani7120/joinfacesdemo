@@ -1,5 +1,6 @@
 joinfaces:
   jsf:
     PROJECT_STAGE: Development
-  primefaces:
-    theme: blitzer
+    partial-state-saving: true
+  adminfaces:
+    skin: skin-blue
